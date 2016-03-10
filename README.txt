@@ -1,3 +1,5 @@
+** DOWNLOAD THE QT APPLICATION FROM THE '/DIST' FOLDER **
+
 Hello group,
 
 This is the first file in our github-hosted project repository. Enjoy the powers of THE GIT.
@@ -8,7 +10,16 @@ Sincerely,
 Josh Yolles
 
 --- 2/23/2016 2:28 PM ---
-asdfasdfasdf
-This thing is alright.
 
--- testing for nick and his problems --
+
+░▄░░▄▄▄▀▀▀█▀▄▄▄░░▄
+░░░▄▄████▒▒▒▒░░░░▒▒▒▀████▄▄
+▄███████▒▒▒▒▒░░░░▒▒▒▒▒███████▄
+████████▒░██░▒░░░▒▒▒▄▄▒████████
+▀██████░▒▒▒▒▒░░░░▒▒▒▀▀▒▀░██████ Say Hello to Frankerz
+░▀█████░▒▒▒▒░░░░░░░▒▒▒░░█████▀
+░░░▀▀▀░░░▒▒░░░▄▄▄▄░░▒░░░░▀▀▀
+░░░░░░░░░░▒▒░░████▀░▒
+░░░░░░░░░░░░▒▒░░░░▒▒
+░░░░░░░░░░░░░░▒▒▒▒
+
